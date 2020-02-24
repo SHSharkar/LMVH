@@ -1,0 +1,25 @@
+{
+  "name": "lmvh",
+  "version": "1.0.0",
+  "description": "Laravel Mix Version Hash",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHSharkar/LMVH.git"
+  },
+  "keywords": [
+    "laravel",
+    "laravel-mix",
+    "laravel-mix-version-hash",
+    "mix-version-hash"
+  ],
+  "author": "Md. Sazzad Hossain Sharkar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SHSharkar/LMVH/issues"
+  },
+  "homepage": "https://github.com/SHSharkar/LMVH#readme"
+}
