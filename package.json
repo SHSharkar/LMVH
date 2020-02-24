@@ -1,6 +1,6 @@
 {
   "name": "lmvh",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Laravel Mix Version Hash",
   "main": "src/index.js",
   "repository": {
