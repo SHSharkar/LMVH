@@ -11,7 +11,7 @@ npm install lmvh --save
 ## Usage
 
 ```js
-require('lmvh')
+require('lmvh');
 
 mix.versionHash();
 ```
